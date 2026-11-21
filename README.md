@@ -8,7 +8,7 @@ replysplit takes one incoming email and returns the conversation inside it: each
 
 ## Get it
 
-Buy replysplit at https://dominares.org/tools/replysplit: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the replysplit command, with sample messages, an ingest example and the full test suite.
+Buy replysplit at https://dominares.org/tools/replysplit: one payment of $49, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the replysplit command, with sample messages, an ingest example and the test suite.
 
 Requirements: The Python standard library.
 
